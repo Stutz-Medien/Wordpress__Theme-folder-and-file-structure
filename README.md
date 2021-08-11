@@ -146,7 +146,7 @@ WordPress uses the header comment section of a style.css to display information 
 https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/<br>
 
 # Sources #
-https://developer.wordpress.org/themes/basics/organizing-theme-files/
-https://developer.wordpress.org/themes/basics/template-hierarchy/
-https://codex.wordpress.org/Theme_Development
+https://developer.wordpress.org/themes/basics/organizing-theme-files/<br>
+https://developer.wordpress.org/themes/basics/template-hierarchy/<br>
+https://codex.wordpress.org/Theme_Development<br>
 https://florianbrinkmann.com/en/organizing-files-functions-wordpress-theme-4190/

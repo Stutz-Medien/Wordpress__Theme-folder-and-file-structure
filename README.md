@@ -45,6 +45,7 @@ style.css
 team.txt
 ```
 ---
+# Folders #
 ## assets
 The assets folder contains the CSS, JavaScript, image files aswell as vendor files. 
 This folder can contain an SCSS folder that contains other folders with SCSS files if it is to be used.
@@ -75,6 +76,7 @@ https://developer.wordpress.org/reference/functions/get_template_part/
 The page-templates folder contains the page templates that can be applied to a specific page or a group of pages. WordPress recognises the page-templates subfolder. Therefore, it is a good idea to store your global page templates in this folder to keep them organized.
 https://developer.wordpress.org/themes/template-files-section/page-template-files/
 
+# Files #
 ## 404.php
 File Template for displaying Error 404 pages 
 https://codex.wordpress.org/Creating_an_Error_404_Page

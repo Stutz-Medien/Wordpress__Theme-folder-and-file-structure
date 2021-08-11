@@ -1,4 +1,4 @@
-# Stutz Medien Theme folder and file structure #
+# Wordpress Theme folder and file structure #
 
 This is a very opinionated base theme for WordPress, created from several iterations of the themes of our projects in production. It is based on the WordPress recommendation.
 

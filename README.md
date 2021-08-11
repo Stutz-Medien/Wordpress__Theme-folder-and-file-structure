@@ -78,7 +78,7 @@ https://developer.wordpress.org/themes/template-files-section/page-template-file
 
 # Files #
 ## 404.php
-File Template for displaying Error 404 pages <br>
+File Template for displaying Error 404 pages.<br>
 https://codex.wordpress.org/Creating_an_Error_404_Page<br>
 
 ## archive.php
@@ -91,7 +91,7 @@ Template File that displays comments in your theme.<br>
 https://developer.wordpress.org/themes/template-files-section/partial-and-miscellaneous-template-files/comment-template/<br>
 
 ## footer.php
-File Template for displaying the Footer. It is called when using the wp_footer()<br>
+File Template for displaying the Footer. It is called when using the wp_footer().<br>
 https://developer.wordpress.org/themes/basics/template-hierarchy/<br>
 
 ## front-page.php
@@ -111,7 +111,7 @@ Display a list of posts in excerpt or full-length form. Choose one or the other 
 https://developer.wordpress.org/themes/basics/template-hierarchy/<br>
 
 ## page.php
-File Template for displaying single pages<br>
+File Template for displaying single pages.<br>
 https://developer.wordpress.org/themes/basics/template-hierarchy/#single-page<br>
 
 
@@ -120,7 +120,7 @@ Adding support for language written in a Right-To-Left (RTL) direction.<br>
 https://codex.wordpress.org/Right-to-Left_Language_Support<br>
 
 ## screenshot.png
-The new WordPress screenshot size for themes is 1200×900px. The official WordPress Codex or WordPress Docs recommends that during theme development you must create a screenshot for your theme.<br>
+The new WordPress screenshot size for themes is 1200×900px. The official WordPress Codex or WordPress Docs recommends that during theme development you must create a screenshot for your theme. Replace this file in order to change your Wordpress Screenshot.<br>
 https://codex.wordpress.org/Theme_Development#Screenshot<br>
 
 ## search.php
@@ -138,11 +138,11 @@ You can need to use multiple files to organize multiple sidebars.<br>
 https://developer.wordpress.org/themes/functionality/sidebars/<br>
 
 ## single.php
-File Template for displaying single posts<br>
+File Template for displaying single posts.<br>
 https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post<br>
 
 ## style.css
-WordPress uses the header comment section of a style.css to display information about the theme in the Appearance dashboard panel (Themes). <br>
+WordPress uses the header comment section of a style.css to display information about the theme in the Appearance dashboard panel (Themes).<br>
 https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/<br>
 
 # Sources #

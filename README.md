@@ -2,7 +2,7 @@
 
 This is a very opinionated base theme for WordPress, created from several iterations of the themes of our projects in production. It is based on the WordPress recommendation.
 
-Although WordPress themes technically only need two files (index.php and style.css), they usually consist of many files. This means they can quickly become confusing! This can help you organise your themes.
+Although WordPress themes technically only need two files (index.php and style.css), they usually consist of many files. This means they can quickly become confusing! With this manual (template), you should be able to organise your theme(s).
 
 ## Theme folder structure
 

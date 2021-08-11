@@ -54,13 +54,13 @@ Put external files in the vendor folder so that you do not confuse them with you
 ## inc
 The inc folder contains the PHP functions of the theme. The functions.php simply contains all these files. The functions should be grouped in different files.
 
-```actions.php``` all add_action() calls.
-```cache-functions.php``` all functions which work with transients.
-```filter-functions.php``` functions which are called by add_filter().
-```filters.php``` the add_filter() calls.
-```front-page-panel-functions.php``` all functions which have to do with the front page panels feature.
-```template-functions.php``` all functions which are not directly called from template files but cannot be grouped into other files.
-```template-tags.php``` functions which are called from template files.
+```actions.php``` all add_action() calls.<br>
+```cache-functions.php``` all functions which work with transients.<br>
+```filter-functions.php``` functions which are called by add_filter().<br>
+```filters.php``` the add_filter() calls.<br>
+```front-page-panel-functions.php``` all functions which have to do with the front page panels feature.<br>
+```template-functions.php``` all functions which are not directly called from template files but cannot be grouped into other files.<br>
+```template-tags.php``` functions which are called from template files.<br>
 ```theme-updates.php ``` functions to provide automatic theme updates.
 
 ## languages

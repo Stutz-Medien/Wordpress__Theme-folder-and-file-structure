@@ -142,4 +142,11 @@ File Template for displaying single posts<br>
 https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post<br>
 
 ## style.css
+WordPress uses the header comment section of a style.css to display information about the theme in the Appearance dashboard panel (Themes). <br>
+https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/<br>
 
+# Sources #
+https://developer.wordpress.org/themes/basics/organizing-theme-files/
+https://developer.wordpress.org/themes/basics/template-hierarchy/
+https://codex.wordpress.org/Theme_Development
+https://florianbrinkmann.com/en/organizing-files-functions-wordpress-theme-4190/
